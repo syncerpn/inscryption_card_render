@@ -1,0 +1,5 @@
+bird,tribeicon_bird-resources.assets-3246.png
+canine,tribeicon_canine-resources.assets-1637.png
+hooved,tribeicon_hooved-resources.assets-1616.png
+insect,tribeicon_insect-resources.assets-2422.png
+reptile,tribeicon_reptile-resources.assets-2914.png
